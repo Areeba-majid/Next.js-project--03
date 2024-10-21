@@ -13,7 +13,7 @@ function App() {
         <AboutUs />
         <OurMenu />
         <Contact />
-      </main>gi
+      </main>
       <Footer />
     </div>
   );
